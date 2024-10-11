@@ -45,7 +45,7 @@ Explain how to install and set up the project locally. Include steps for setting
 
 ```bash
 # Clone the repository
-git clone https://github.com/shubhanshurav/E-Shop.git
+git clone https://github.com/shailpujan88/UrbanSphere.git
 
 # Navigate to the project directory
 cd your-repo
@@ -87,63 +87,5 @@ Explain the main routes and components used in your application.
 - `/contact`: Contact page for user inquiries.
 - `/login`: Login page for user authentication.
 - `/cart`: Cart page for managing shopping cart items.
-
-Certainly! Here are the explanations for contributing guidelines and licensing for your project documentation:
-
-### 7. Contributing <a name="contributing"></a>
-
-We welcome contributions from the community to improve and enhance the Apna Fashion Store project. If you would like to contribute, please follow these guidelines:
-
-### Submitting Issues
-
-If you encounter any issues, bugs, or have feature requests, please submit them through the project's [issue tracker](https://github.com/shubhanshurav/Apna-FAshion-Store/issues).
-
-When submitting issues, provide detailed information, including:
-
-- A clear and descriptive title.
-- A detailed description of the issue or feature request.
-- Steps to reproduce the issue (if applicable).
-- Screenshots or code snippets that help illustrate the problem (if applicable).
-
-### Pull Requests
-
-We encourage you to submit pull requests for bug fixes, enhancements, or new features. To contribute via pull request, please follow these steps:
-
-1. Fork the repository to your own GitHub account.
-2. Create a new branch for your changes: `git checkout -b feature/your-feature-name`.
-3. Make your changes, following the project's coding style and guidelines.
-4. Test your changes thoroughly to ensure they do not introduce new issues.
-5. Commit your changes with clear and concise messages.
-6. Push your branch to your forked repository: `git push origin feature/your-feature-name`.
-7. Create a pull request from your branch to the main repository's `main` branch.
-
-Your pull request will be reviewed by the project maintainers. Please be patient during the review process, and be ready to address any feedback or comments.
-
-Thank you for considering contributing to Apna Fashion Store, and we appreciate your support!
-
-### 8. Project Admins <a name="project-admins"></a>
-
-#### Shubhanshu Rao
-
-<p>
-  <img src="https://github.com/shubhanshurav/Apna-Fashion-Store/assets/87806305/caa94905-3bf8-4e54-9aec-1125401d3b14" alt="Shubhanshu Rao" width="150" height="150">
-</p>
-
-Follow me:
-- [GitHub](https://github.com/shubhanshurav)
-- [LinkedIn](https://www.linkedin.com/in/shubhanshu-rao-052320208/)
-
-#### Saket Singh
-
-<p>
-  <img src="https://github.com/shubhanshurav/Apna-Fashion-Store/assets/87806305/29769d6e-1b75-44ea-8651-a6d522e08ffb" alt="Saket Singh" width="150" height="150">
-</p>
-
-Follow me:
-- [GitHub](https://github.com/saketsingh120)
-- [LinkedIn](https://www.linkedin.com/in/saket-singh-810824240/)
-
-
-
 
 **Happy Coding!**
